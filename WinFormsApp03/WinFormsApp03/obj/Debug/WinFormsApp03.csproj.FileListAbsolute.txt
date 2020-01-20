@@ -1,0 +1,10 @@
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\bin\Debug\WinFormsApp03.exe.config
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\bin\Debug\WinFormsApp03.exe
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\bin\Debug\WinFormsApp03.pdb
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.csprojAssemblyReference.cache
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.Form1.resources
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.Properties.Resources.resources
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.csproj.GenerateResource.cache
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.csproj.CoreCompileInputs.cache
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.exe
+C:\Users\aneli\source\project\WinFormsApp03\WinFormsApp03\obj\Debug\WinFormsApp03.pdb
